@@ -1,0 +1,200 @@
+model,tahun,harga,transmisi,odometer,jenis,pajak,konsumsiBBM,mesin
+ Supra X 125,2017,7999,Manual,17307,Bebek,145,58.9,125
+ Vario 125,2016,14499,Automatic,25233,Skuter,235,43.5,125
+ Vario 125,2016,11399,Automatic,37877,Skuter,30,61.7,125
+ Revo,2016,6499,Manual,23789,Bebek,20,60.1,110
+ PCX,2015,10199,Automatic,33177,Skuter,160,51.4,150
+ Revo,2015,6149,Manual,41650,Bebek,20,60.1,110
+ Supra X 125,2015,6799,Manual,39547,Bebek,30,55.4,125
+ Vario 125,2016,14199,Automatic,30300,Skuter,125,57.6,125
+ Genio,2018,10399,Automatic,38082,Skuter,145,51.4,110
+ Vario 125,2016,12163,Automatic,21014,Skuter,30,61.7,125
+ Vario 125,2017,13200,Automatic,22888,Skuter,150,61.7,125
+ Genio,2017,10000,Automatic,20000,Skuter,150,56.5,110
+ Supra X 125,2015,6900,Manual,26413,Bebek,30,55.4,125
+ Vario 125,2019,17750,Automatic,10000,Skuter,150,34.9,125
+ Vario 125,2017,14600,Automatic,18626,Skuter,125,57.6,125
+ Supra GTR,2015,8700,Kopling,31979,Bebek,30,65.7,150
+ Vario 125,2017,13000,Automatic,26685,Skuter,30,61.7,125
+ Revo,2018,7100,Manual,35000,Bebek,145,60.1,110
+ Revo,2016,7500,Manual,6000,Bebek,20,57.6,110
+ Vario 125,2017,12000,Automatic,17059,Skuter,30,61.7,125
+ Vario 125,2017,11695,Automatic,49174,Skuter,145,44.8,125
+ Supra X 125,2015,7995,Manual,6413,Bebek,30,55.4,125
+ Vario 125,2015,10700,Automatic,34177,Skuter,30,61.7,125
+ Revo,2016,8100,Manual,7447,Bebek,30,57.6,110
+ PCX,2013,8200,Automatic,34500,Skuter,145,53.3,150
+ Revo,2016,6600,Manual,16751,Bebek,30,57.6,110
+ Vario 125,2018,13900,Automatic,16265,Skuter,150,44.8,125
+ Vario 125,2018,13700,Automatic,19087,Skuter,145,44.8,125
+ Genio,2017,8300,Automatic,38206,Skuter,145,78.4,110
+ Vario 125,2016,15800,Automatic,20025,Skuter,125,57.6,125
+ CB150R,2018,15000,Kopling,32227,Sport,135,78.5,150
+ Vario 125,2015,15200,Automatic,28904,Skuter,200,46.3,125
+ Revo,2014,7700,Manual,8646,Bebek,160,45.6,110
+ Genio,2017,10500,Automatic,17663,Skuter,20,72.4,110
+ Supra X 125,2017,11400,Manual,12661,Bebek,145,44.1,125
+ Verza,2018,12995,Kopling,7359,Sport,145,52.3,150
+ Vario 125,2019,18000,Automatic,4353,Skuter,145,35.3,125
+ Revo,2018,9000,Manual,7126,Bebek,145,60.1,110
+ BeAT ,2014,8300,Automatic,36324,Skuter,160,43.5,110
+ Revo,2018,8500,Manual,12948,Bebek,145,60.1,0.0
+ Genio,2019,14500,Automatic,2481,Skuter,145,41.5,110
+ Vario 125,2016,13800,Automatic,27311,Skuter,30,61.7,110
+ Genio,2016,9000,Automatic,34443,Skuter,0,78.4,110
+ Vario 125,2017,13800,Automatic,16961,Skuter,30,61.7,125
+ Vario 125,2017,14100,Automatic,5067,Skuter,145,44.8,125
+ Revo,2013,5000,Manual,45230,Bebek,20,61.4,110
+ Revo,2018,10300,Manual,6349,Bebek,145,57.6,110
+ Supra GTR,2015,11500,Kopling,13268,Skuter,30,65.7,150
+ Genio,2016,9000,Automatic,29610,Skuter,0,78.4,110
+ PCX,2015,11400,Automatic,23041,Skuter,165,51.4,150
+ Supra X 125,2017,10000,Manual,21821,Bebek,145,61.4,125
+ Revo,2018,7800,Manual,17397,Bebek,150,60.1,110
+ Revo,2016,6300,Manual,31854,Bebek,20,60.1,110
+ Vario 125,2016,11300,Automatic,37993,Skuter,30,61.7,125
+ Sonic 150,2018,15500,Kopling,30305,Bebek,145,31.7,150
+ Supra X 125,2018,11700,Manual,3920,Bebek,150,46.3,125
+ Vario 125,2017,16800,Automatic,21875,Skuter,145,38.7,125
+ Revo,2016,6500,Manual,27465,Bebek,20,60.1,110
+ Revo,2019,8600,Manual,4920,Bebek,145,60.1,110
+ Genio,2016,9400,Automatic,18577,Skuter,145,48.7,110
+ BeAT Street,2013,6000,Automatic,42320,Skuter,145,45.6,110
+ Vario 125,2017,15000,Automatic,23310,Skuter,30,61.7,125
+ Vario 125,2019,15000,Automatic,22397,Skuter,150,34.9,125
+ Vario 125,2019,16300,Automatic,10066,Skuter,150,34.9,125
+ Revo,2018,8300,Manual,13148,Bebek,150,60.1,110
+ Sonic 150,2019,18500,Kopling,7691,Bebek,150,31.7,150
+ Vario 125,2016,12300,Automatic,21898,Skuter,30,61.7,125
+ Revo,2016,6500,Manual,24740,Bebek,20,60.1,110
+ Revo,2014,5500,Manual,20127,Bebek,20,60.1,110
+ Sonic 150,2018,15299,Kopling,34103,Bebek,145,33.6,150
+ BeAT Street,2016,9000,Automatic,21152,Skuter,30,64.2,110
+ Revo,2017,7600,Manual,15618,Bebek,145,60.1,110
+ Revo,2017,7300,Manual,15594,Bebek,20,60.1,110
+ Supra X 125,2015,7500,Manual,28123,Bebek,30,56.5,125
+ CB150R,2019,19800,Kopling,1963,Sport,135,78.5,150
+ Revo,2015,7500,Manual,13637,Bebek,30,57.6,110
+ Vario 125,2017,15700,Automatic,7457,Skuter,125,57.6,125
+ Supra X 125,2017,8500,Manual,16708,Bebek,145,58.9,125
+ Vario 125,2017,12000,Automatic,2236,Skuter,160,44.8,125
+ Genio,2018,9299,Automatic,21859,Skuter,145,56.5,110
+ Vario 125,2016,11599,Automatic,31480,Skuter,30,61.7,125
+ Revo,2017,7000,Manual,31696,Bebek,145,57.7,110
+ Revo,2017,8000,Manual,16636,Bebek,145,60.1,110
+ Supra X 125,2017,8600,Manual,19398,Bebek,30,58.9,125
+ Genio,2016,8900,Automatic,18257,Skuter,0,78.4,110
+ PCX,2014,9800,Automatic,35541,Skuter,145,53.3,150
+ Revo,2015,6800,Manual,22211,Bebek,20,60.1,110
+ Genio,2018,11531,Automatic,35097,Skuter,145,51.4,110
+ Supra GTR,2016,11400,Kopling,27712,Bebek,125,56.5,150
+ BeAT Street,2016,7194,Automatic,27696,Skuter,125,50.4,110
+ Revo,2015,6500,Manual,12731,Bebek,30,57.6,110
+ Vario 125,2018,12556,Automatic,20443,Skuter,145,44.8,125
+ Revo,2014,5644,Manual,40248,Bebek,20,60.1,110
+ Revo,2017,7799,Manual,21321,Bebek,145,57.7,110
+ PCX,2011,6936,Automatic,72436,Skuter,200,47.9,150
+ Revo,2018,9499,Manual,8418,Bebek,145,47.9,110
+ PCX,2012,5000,Automatic,119050,Skuter,150,48.7,150
+ Genio,2018,9000,Automatic,15804,Skuter,145,57.7,110
+ Sonic 150,2017,13499,Kopling,44749,Bebek,145,33.6,150
+ Revo,2016,6000,Manual,23176,Bebek,30,57.6,110
+ Revo,2018,8495,Manual,28889,Bebek,145,47.9,110
+ Supra X 125,2019,11995,Manual,3300,Bebek,145,46.3,125
+ Revo,2018,6350,Manual,31738,Bebek,145,60.1,125
+ Supra X 125,2019,11795,Manual,5409,Bebek,150,46.3,125
+ Vario 125,2016,13300,Automatic,25071,Skuter,30,61.7,125
+ Vario 125,2018,13950,Automatic,17427,Skuter,150,44.8,125
+ Vario 125,2019,15600,Automatic,8000,Skuter,150,34.9,125
+ Vario 125,2016,12795,Automatic,26804,Skuter,30,61.7,125
+ Revo,2014,6600,Manual,31090,Bebek,30,57.6,110
+ BeAT,2012,6300,Automatic,60200,Skuter,165,43.5,110
+ CRF 150,2014,15500,Kopling,37006,Trail,265,41.5,150
+ Vario 125,2019,15400,Automatic,12254,Skuter,150,34.9,125
+ Genio,2016,8900,Automatic,17350,Skuter,145,48.7,110
+ Vario 125,2017,14100,Automatic,27299,Skuter,145,57.6,125
+ Vario 125,2017,13100,Automatic,21119,Skuter,30,61.7,125
+ Vario 125,2017,12600,Automatic,36750,Skuter,30,61.7,125
+ Vario 125,2016,12950,Automatic,37350,Skuter,125,58.9,125
+ Vario 125,2018,13300,Automatic,29413,Skuter,150,44.8,125
+ Vario 125,2017,12700,Automatic,33808,Skuter,30,61.7,125
+ PCX,2015,9700,Automatic,26564,Skuter,200,41.5,150
+ PCX,2014,8700,Automatic,54304,Skuter,145,53.3,150
+ Supra X 125,2016,7500,Manual,41496,Bebek,30,56.5,125
+ BeAT Street,2014,6500,Manual,38601,Bebek,125,50.4,125
+ Revo,2017,7000,Manual,31232,Bebek,145,57.7,110
+ Supra X 125,2019,12000,Manual,7061,Bebek,145,46.3,125
+ Genio,2015,8250,Automatic,29980,Skuter,0,78.4,110
+ Supra X 125,2017,7999,Manual,44120,Bebek,150,62.8,125
+ PCX,2011,7799,Automatic,48528,Skuter,300,39.2,150
+ Vario 125,2016,14999,Automatic,20645,Skuter,205,47.1,125
+ CRF 150,2017,18999,Kopling,20599,Trail,150,42.8,150
+ Revo,2012,3799,Manual,56582,Bebek,20,61.4,150
+ Genio,2015,7803,Automatic,43022,Skuter,0,78.4,110
+ Vario 125,2016,12995,Automatic,37688,Skuter,30,61.7,125
+ Vario 125,2016,16498,Automatic,12163,Skuter,200,46.3,125
+ Genio,2015,8998,Automatic,16412,Skuter,145,48.7,110
+ Verza,2019,14298,Kopling,6874,Sport,145,44.1,150
+ PCX,2013,7298,Automatic,50998,Skuter,145,48.7,150
+ Revo,2016,5998,Manual,41883,Bebek,30,57.6,110
+ Genio,2018,11998,Automatic,5404,Skuter,145,74.3,110
+ Sonic 150,2018,15998,Kopling,36815,Bebek,145,28.0,150
+ Revo,2014,5498,Manual,13840,Bebek,20,60.1,110
+ Genio,2016,7498,Automatic,56693,Skuter,0,78.4,110
+ BeAT Street,2015,6498,Automatic,57819,Skuter,125,50.4,110
+ Verza,2019,15498,Kopling,5630,Sport,145,44.1,150
+ Supra X 125,2017,8498,Manual,19685,Bebek,145,58.9,125
+ Vario 125,2017,13698,Automatic,17539,Skuter,30,61.7,125
+ Revo,2017,6998,Manual,39968,Bebek,145,57.7,110
+ Vario 125,2017,13998,Automatic,21679,Skuter,30,61.7,125
+ Vario 125,2017,14498,Automatic,9146,Skuter,150,61.7,125
+ Sonic 150,2019,19998,Kopling,1477,Bebek,145,31.7,150
+ Verza,2018,12498,Kopling,12834,Sport,145,52.3,150
+ Supra GTR,2017,8998,Kopling,59626,Bebek,150,67.3,150
+ BeAT Street,2016,8298,Automatic,28355,Skuter,125,50.4,110
+ Verza,2018,15995,Kopling,23400,Sport,145,52.3,150
+ PCX,2015,9495,Automatic,46000,Skuter,145,53.3,150
+ Genio,2018,8998,Automatic,24070,Skuter,145,57.7,110
+ Genio,2019,14998,Automatic,3010,Skuter,145,41.5,110
+ Genio,2019,14998,Automatic,3303,Skuter,145,41.5,110
+ Verza,2019,21998,Kopling,1391,Sport,135,52.3,150
+ Supra X 125,2017,8998,Manual,16900,Bebek,145,55.4,125
+ Supra GTR,2016,10998,Kopling,29347,Bebek,30,65.7,150
+ Supra X 125,2016,9498,Manual,17206,Bebek,30,58.9,125
+ Revo,2015,5998,Manual,8116,Bebek,20,60.1,110
+ BeAT Street,2015,7998,Automatic,20077,Skuter,125,50.4,110
+ Supra X 125,2017,7998,Manual,28502,Bebek,145,55.4,125
+ Supra X 125,2015,7398,Manual,23656,Bebek,30,55.4,125
+ Supra X 125,2015,6698,Manual,43795,Bebek,125,51.4,125
+ Supra X 125,2017,8598,Manual,9392,Bebek,30,58.9,125
+ Genio,2019,23498,Automatic,1437,Skuter,145,34.0,110
+ Verza,2019,14998,Kopling,2383,Sport,145,44.1,150
+ CRF 150,2019,34998,Kopling,4133,Trail,145,39.2,150
+ CRF 150,2019,34998,Kopling,4956,Trail,145,39.2,150
+ Vario 125,2019,15998,Automatic,3454,Skuter,145,35.3,125
+ Genio,2019,14998,Automatic,3001,Skuter,145,41.5,110
+ Vario 125,2019,15498,Automatic,14877,Skuter,150,34.9,125
+ Vario 125,2019,18998,Automatic,3649,Skuter,150,36.2,125
+ Vario 125,2017,14498,Automatic,12811,Skuter,150,61.7,125
+ Vario 125,2017,15298,Automatic,19066,Skuter,150,57.6,125
+ Vario 125,2017,15998,Automatic,11231,Skuter,150,57.6,125
+ Revo,2017,6498,Manual,23692,Bebek,20,60.1,110
+ CRF 150,2017,15998,Kopling,48034,Trail,205,47.1,150
+ Vario 125,2016,12498,Automatic,41953,Skuter,30,61.7,125
+ BeAT Street,2014,5998,Automatic,42386,Skuter,30,64.2,110
+ Vario 125,2018,16500,Automatic,12875,Skuter,38.7,125
+ CRF 150,2015,16998,Kopling,38514,Trail,265,42.2,150
+ Vario 125,2016,10998,Automatic,20258,Skuter,160,44.8,125
+ Vario 125,2017,15998,Automatic,12150,Skuter,145,57.6,125
+ Vario 125,2016,18698,Automatic,14884,Skuter,235,43.5,125
+ Vario 125,2017,11498,Automatic,35213,Skuter,145,61.7,125
+ Vario 125,2018,14998,Automatic,7482,Skuter,145,44.8,125
+ Vario 125,2019,15498,Automatic,12077,Skuter,145,34.9,125
+ Vario 125,2017,13498,Automatic,5863,Skuter,160,44.8,125
+ Supra X 125,2018,9985,Manual,20796,Bebek,145,45.6,125
+ Revo,2017,7498,Manual,8788,Bebek,145,60.1,110
+ Vario 125,2019,15998,Automatic,17841,Skuter,150,34.9,125
+ Genio,2015,8798,Automatic,21701,Skuter,150,48.7,110
+ Vario 125,2019,15498,Automatic,15751,Sport,150,34.9,125
+ Supra X 125,2016,8298,Manual,17499,Bebek,30,55.4,125
+ Verza,2019,14998,Kopling,6717,Sport,150,44.1,150
